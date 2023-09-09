@@ -6,13 +6,13 @@ Tayfun</h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Movie_Apps
 
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning React-Native
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **C# & JavaScript**
 
 - 📫 How to reach me **katilmistayfun@gmail.com**
 
